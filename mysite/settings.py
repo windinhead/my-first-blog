@@ -25,7 +25,7 @@ SECRET_KEY = '(mj03e8!_bz-8kzi57=hc@z6dq0rdrq54tfmzjpi)9)+xl)*jm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['windinhead.pythonanywhere.com','localhost','127.0.0.1']
 
 
 # Application definition
